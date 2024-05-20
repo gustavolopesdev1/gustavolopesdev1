@@ -1,4 +1,4 @@
-## Oiii eu sou o Gustavo Lopes, Estudante de programação e tecnologia!
+## Olá me chamo Gustavo Lopes, Estudante de programação e tecnologia!
 
 
 <div style="display: inline_block"><br>
